@@ -152,5 +152,10 @@
             }, 3000);
         }
     </script>
+<footer>
+            <div class="container">
+                <p>&copy; 2025 FashionHub. All rights reserved. | Developed for NISUM Technologies Training</p>
+            </div>
+        </footer>
 </body>
 </html>
