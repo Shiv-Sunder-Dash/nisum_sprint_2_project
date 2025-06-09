@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0091b48-1b1b-4898-b5e1-62501e8e2e32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/MiniPrjS2.war" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/CartController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/HomeController.class" beforeDir="false" />
@@ -131,9 +132,6 @@
       <option name="catalinaBase" value="C:\tomcat\apache-tomcat-9.0.105" />
       <option name="contextPath" value="/MiniPrjS2" />
       <option name="docBase" value="C:\Users\KIIT\Desktop\nisum2\NisumPrjS2\MiniPrjS2\target\MiniPrjS2.war" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -172,7 +170,8 @@
       <workItem from="1749460735772" duration="42000" />
       <workItem from="1749461666557" duration="97000" />
       <workItem from="1749464099743" duration="350000" />
-      <workItem from="1749464611104" duration="124000" />
+      <workItem from="1749464611104" duration="985000" />
+      <workItem from="1749468488554" duration="3000" />
     </task>
     <servers />
   </component>
