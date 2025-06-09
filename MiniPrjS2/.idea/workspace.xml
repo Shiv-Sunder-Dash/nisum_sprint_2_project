@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0091b48-1b1b-4898-b5e1-62501e8e2e32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/browse.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/browse.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product-detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/product-detail.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/kids-winter-jacket.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/products/kids-winter-jacket.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/men-cotton-shirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/products/men-cotton-shirt.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/mens-leather-jacket.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/products/mens-leather-jacket.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/images/women-floral-dress.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/images/products/women-floral-dress.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/CartController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/HomeController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/ProductController.class" beforeDir="false" />
@@ -46,9 +38,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yFkXgAZyPsKhwok9p3KxpiN36L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,8 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.MiniPrjS2 [clean,package].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "Smart Tomcat.Unnamed.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -67,6 +61,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -76,6 +73,11 @@
       <recent name="C:\Users\KIIT\Desktop\nisum2\NisumPrjS2\MiniPrjS2\src\main\webapp\images\products" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -83,9 +85,9 @@
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\KIIT\.SmartTomcat\MiniPrjS2\MiniPrjS2" />
+      <option name="catalinaBase" value="C:\tomcat\apache-tomcat-9.0.105" />
       <option name="contextPath" value="/MiniPrjS2" />
-      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="docBase" value="C:\Users\KIIT\Desktop\nisum2\NisumPrjS2\MiniPrjS2\target\MiniPrjS2.war" />
       <option name="envOptions">
         <map />
       </option>
@@ -120,6 +122,13 @@
       <option name="presentableId" value="Default" />
       <updated>1749437750742</updated>
       <workItem from="1749437751339" duration="1726000" />
+      <workItem from="1749440011659" duration="893000" />
+      <workItem from="1749459081595" duration="225000" />
+      <workItem from="1749459685994" duration="264000" />
+      <workItem from="1749460647677" duration="70000" />
+      <workItem from="1749460735772" duration="42000" />
+      <workItem from="1749461666557" duration="97000" />
+      <workItem from="1749464099743" duration="350000" />
     </task>
     <servers />
   </component>
