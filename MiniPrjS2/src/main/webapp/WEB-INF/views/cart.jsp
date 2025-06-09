@@ -12,7 +12,7 @@
 <body>
     <div class="container">
         <header class="cart-header">
-            <h1 class="page-title">🛒 Shopping Cart</h1>
+            <h1 class="page-title"> Shopping Cart</h1>
             <nav>
                 <a href="${pageContext.request.contextPath}/browse" class="nav-btn">Continue Shopping</a>
             </nav>
@@ -86,7 +86,7 @@
 
                             <c:if test="${cart.comboDiscount > 0}">
                                 <div class="summary-row discount">
-                                    <span>🎉 Combo Discount (10%):</span>
+                                    <span> Combo Discount (10%):</span>
                                     <span>-₹<fmt:formatNumber value="${cart.comboDiscount}" pattern="#,##0.00"/></span>
                                 </div>
                             </c:if>
@@ -104,7 +104,7 @@
                             </div>
 
                             <div class="savings-info">
-                                <p>🎉 You saved ₹<fmt:formatNumber value="${cart.totalDiscount + cart.bulkDiscount + cart.comboDiscount}" pattern="#,##0.00"/> on this order!</p>
+                                <p> You saved ₹<fmt:formatNumber value="${cart.totalDiscount + cart.bulkDiscount + cart.comboDiscount}" pattern="#,##0.00"/> on this order!</p>
                             </div>
 
                             <div class="checkout-actions">
