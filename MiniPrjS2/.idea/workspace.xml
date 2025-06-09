@@ -6,7 +6,47 @@
   <component name="ChangeListManager">
     <list default="true" id="f0091b48-1b1b-4898-b5e1-62501e8e2e32" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/CartController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/dao/ProductDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/model/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/model/CartItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/classes/com/nisum/ecommerce/service/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/mysql-connector-j-8.0.33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/protobuf-java-3.21.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-aop-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-beans-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-context-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-core-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-expression-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-jcl-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-jdbc-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-tx-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-web-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/lib/spring-webmvc-5.3.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/browse.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/cart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/product-detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/views/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/css/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/css/logreg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/css/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/images/products/kids-winter-jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/images/products/men-cotton-shirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/images/products/mens-leather-jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MiniPrjS2/images/products/women-floral-dress.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/CartController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/HomeController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/controller/ProductController.class" beforeDir="false" />
@@ -18,6 +58,9 @@
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/model/Product.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/model/User.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/nisum/ecommerce/service/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,28 +89,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.MiniPrjS2 [clean,package].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Smart Tomcat.Unnamed.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/KIIT/Desktop/nisum2/NisumPrjS2/MiniPrjS2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.MiniPrjS2 [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/Desktop/nisum2/NisumPrjS2/MiniPrjS2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KIIT\Desktop\nisum2\NisumPrjS2\MiniPrjS2\src\main\webapp\images\products" />
@@ -129,6 +172,7 @@
       <workItem from="1749460735772" duration="42000" />
       <workItem from="1749461666557" duration="97000" />
       <workItem from="1749464099743" duration="350000" />
+      <workItem from="1749464611104" duration="124000" />
     </task>
     <servers />
   </component>
